@@ -9,7 +9,10 @@ Example plain HTML website using GitLab with [Netlify](https://www.netlify.com/)
 In order to build this site with Netlify, simply log in or register at 
 https://app.netlify.com/, then select "New site from Git" from the top
 right. Select GitLab, authenticate if needed, and then select this
-project from the list. Netlify will handle the rest.
+project from the list. 
+
+You will need to set the publish directory to `/public`. Netlify will handle the 
+rest.
 
 In the meantime, you can take advantage of all the great GitLab features
 like merge requests, issue tracking, epics, and everything else GitLab has
