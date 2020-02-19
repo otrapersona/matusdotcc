@@ -4,15 +4,13 @@
   src: url('VictorMono-Medium.eot?#iefix') format('embedded-opentype'),
        url('VictorMono-Medium.woff2') format('woff2'),
        url('VictorMono-Medium.woff') format('woff'),
-       url('VictorMono-Medium.ttf')  format('truetype'),
-       url('VictorMono-Medium.svg#svgFontName') format('svg');
+       url('VictorMono-Medium.ttf')  format('truetype');
 }
 
 body {
   background: #0f0f0f;
   color: #f0f0f0;
   font-size: 40px;
-  font-weight: 300;
   line-height: 100%;
   font-family: 'VictorMono', sans-serif, sans;
   text-align: center;
@@ -78,6 +76,7 @@ a:active {
   line-height: 0px;
 }
 .center .smoler {
+  padding-right: 10px;
   display:inline;
   line-height: 0px;
   font-variant: small-caps;
