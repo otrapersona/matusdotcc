@@ -74,9 +74,9 @@ a:active {
   display:inline;
   font-size: 20px;
   line-height: 0px;
+  padding-right: 10px;
 }
 .center .smoler {
-  padding-right: 10px;
   display:inline;
   line-height: 0px;
   font-variant: small-caps;
