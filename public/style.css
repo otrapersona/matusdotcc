@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'VictorMono';
-  src: url('VictorMono-Medium.eot');
-  src: url('VictorMono-Medium.eot?#iefix') format('embedded-opentype'),
-       url('VictorMono-Medium.woff2') format('woff2'),
-       url('VictorMono-Medium.woff') format('woff'),
-       url('VictorMono-Medium.ttf')  format('truetype');
+  src: url('VictorMono-Regular.eot');
+  src: url('VictorMono-Regular.eot?#iefix') format('embedded-opentype'),
+       url('VictorMono-Regular.woff2') format('woff2'),
+       url('VictorMono-Regular.woff') format('woff'),
+       url('VictorMono-Regular.ttf')  format('truetype');
 }
 
 body {
