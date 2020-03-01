@@ -23,6 +23,11 @@ body {
   margin: 0px;
 }
 
+p {
+  display:inline;
+  line-height: 0px;
+}
+
 a:link {
   color: #f0f0f0;
   text-decoration: none;
@@ -49,11 +54,6 @@ a:active {
   opacity: 1;
 }
 
-.center .inline {
-  display:inline;
-  line-height: 0px;
-}
-
 .nope {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -73,13 +73,9 @@ a:active {
 }
 
 .center .smol {
-  display:inline;
   font-size: 20px;
-  line-height: 0px;
 }
 .center .smoler {
-  display:inline;
-  line-height: 0px;
   font-variant: small-caps;
   font-size: 20px;
   -webkit-touch-callout: none;
