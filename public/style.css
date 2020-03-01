@@ -50,7 +50,7 @@ a:active {
 
 .center {
   animation-name: appear;
-  animation-duration: 3s;
+  animation-duration: 1s;
   opacity: 1;
 }
 
@@ -74,6 +74,7 @@ a:active {
 
 .center .smol {
   font-size: 20px;
+  animation-duration: 3s;
 }
 .center .smoler {
   font-variant: small-caps;
@@ -84,6 +85,7 @@ a:active {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+  animation-duration: 3s;
 }
 
 @keyframes appear {
