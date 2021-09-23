@@ -1,17 +1,9 @@
-@font-face {
-  font-family: "Victor";
-  src: url("VictorMono-Light.eot");
-  src: url("VictorMono-Light.eot?#iefix") format("embedded-opentype"),
-    url("VictorMono-Light.woff2") format("woff2"),
-    url("VictorMono-Light.woff") format("woff"),
-    url("VictorMono-Light.ttf") format("truetype");
-}
 body {
   background: #282a36;
   color: #f8f8f2;
   font-size: 40px;
   line-height: 0;
-  font-family: "Victor", monospace;
+  font-family: monospace;
   text-align: center;
   text-align-last: center;
   padding: 0;
